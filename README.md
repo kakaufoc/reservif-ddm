@@ -2,7 +2,7 @@
 <p align="center">Um trabalho para a disciplina de DESENVOLVIMENTO DE DISPOSITIVOS MÓVEIS - 4º Informática do IFSP-Jacareí</p>
 <br>
 <p align="center">
-<h1>👨‍🏫 Professores responsáveis. </h1> 
+<h1>👨‍🏫 Professores responsáveis </h1> 
 
 Carlos Eduardo Duque Polito 
 
@@ -27,5 +27,5 @@ Para o total funcionamento, a aplicação deve conter:
 - `Desempenho`: O APP deverá funcionar com o melhor desempenho possível.
 - `Segurança`: O site deve garantir que os dados do cliente estejam em segurança.
 
-<h1>📑 Matriz de Requisitos</h1>
-<img src="https://github.com/user-attachments/assets/2743c732-f86c-4b2d-82a0-d9670abd84e6" width=1000> 
+<h1><span style='font-size:100px;'>&#128203;</span>Matriz de Requisitos</h1>
+![Image](https://github.com/user-attachments/assets/c04a4092-8ba2-4c04-871f-710537e11c3e)
