@@ -25,7 +25,27 @@ Para o total funcionamento, a aplicação deve conter:
 
 - `Responsividade`: Capacidade de responder a algo de forma rápida e adequada, adaptando-se às circunstâncias. 
 - `Desempenho`: O APP deverá funcionar com o melhor desempenho possível.
-- `Segurança`: O site deve garantir que os dados do cliente estejam em segurança.
+- `Segurança`: O APP deve garantir que os dados do cliente estejam em segurança.
 
 <h1><span style='font-size:100px;'>&#128203;</span>Matriz de Requisitos</h1>
-![Image](https://github.com/user-attachments/assets/c04a4092-8ba2-4c04-871f-710537e11c3e)
+<img src="https://github.com/user-attachments/assets/c04a4092-8ba2-4c04-871f-710537e11c3e" width = 1000>
+
+<h1>📊 Modelagem do Banco de Dados</h1> 
+<img src= width=1000> 
+<img src="https://github.com/user-attachments/assets/01773011-fe08-4dcf-ba66-b3a0956053bc" width=1000> 
+
+<h1>📖 Dicionário de Dados</h1> 
+
+Esse projeto contará com as seguintes Entidades e atributos
+
+<h2>Entidade Usuário</h2>
+ Essa entidade é necessária para cadastrar o cliente (quem realiza a reserva) e seus dados, possuindo os campos id, email, nome, telefone e senha. 
+ <br><br>
+ 
+- `idUsuário`: É um atributo do tipo INT. É o responsável por criar um **Id único** para o usuário, que no caso é o cliente que fará a reserva (**CHAVE PRIMÁRIA**).
+- `email`: É um atributo do tipo VARCHAR com um tamanho de 45 caracteres. É o responsável por armazenar o e-mail que o usuário cadastrou.
+- `nome`: É um atributo do tipo VARCHAR com um tamanho de 45 caracteres. É o responsável por armazenar o nome do usuário.
+- `telefone`: É um atributo do tipo VARCHAR com um tamanho de 45 caracteres. É o responsável por armazenar o número de telefone do usuário.
+- `senha`: É um atributo do tipo VARCHAR com um tamanho de 45 caracteres. É o responsável por armazenar a senha que o usuário cadastrou.
+- `created_at`: É um atributodo tipo DATE. É o responsável por armazenar a data em que o usuário realizou o cadastro.
+  
