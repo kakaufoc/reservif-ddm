@@ -2,7 +2,7 @@
 <p align="center">Um trabalho para a disciplina de DESENVOLVIMENTO DE DISPOSITIVOS MÓVEIS - 4º Informática do IFSP-Jacareí</p>
 <br>
 <p align="center">
-<h1>👨‍🏫 Professores responsáveis </h1> 
+<h1>👨‍🏫 Professor responsável </h1> 
 
 Carlos Eduardo Duque Polito 
 
@@ -30,9 +30,8 @@ Para o total funcionamento, a aplicação deve conter:
 <h1><span style='font-size:100px;'>&#128203;</span>Matriz de Requisitos</h1>
 <img src="https://github.com/user-attachments/assets/c04a4092-8ba2-4c04-871f-710537e11c3e" width = 1000>
 
-<h1>📊 Modelagem do Banco de Dados</h1> 
-<img src= width=1000> 
-<img src="https://github.com/user-attachments/assets/01773011-fe08-4dcf-ba66-b3a0956053bc" width=1000> 
+<h1>📊 Relacionamento de Dados </h1> 
+<img src="https://github.com/user-attachments/assets/d451428d-7384-4ac6-9034-60d587089bdc" width=1000> 
 
 <h1>📖 Dicionário de Dados</h1> 
 
