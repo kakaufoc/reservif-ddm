@@ -80,10 +80,16 @@ Esse projeto contará com as seguintes Entidades e atributos
 <h2>Perfil e Reserva</h2>
 <img src = "https://github.com/user-attachments/assets/882fa954-9be7-4564-8d1c-e268533d0c92" width=1000>
 
+<h1> <span style='font-size:100px;'>&#129490;</span> USUÁRIO </h1>
+<img src = "https://github.com/user-attachments/assets/882fa954-9be7-4564-8d1c-e268533d0c92" width=1000>
+
 
 <h1><span style='font-size:100px;'>&#129521;</span> Arquitetura da Aplicação</h1> 
-<h2>Arquitetura do Software</h2>
-<img src="https://github.com/user-attachments/assets/49e11b13-c231-4ae7-ae38-222c95d66f3e" width=1000> 
+<h2>Frontend, Backend e Banco de Dados</h2>
+<img src= "https://github.com/user-attachments/assets/4cd1f047-2c07-42ea-b9be-b841a1b47712" width=1000> 
 
+
+# <span style='font-size:100px;'>&#128101;</span> Desenvolvedores
+<h2> Kauany Naiara da Rocha Gomes e Davi Lemes Porto </h2>
 
   
