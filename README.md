@@ -38,13 +38,47 @@ Para o total funcionamento, a aplicação deve conter:
 Esse projeto contará com as seguintes Entidades e atributos
 
 <h2>Entidade Usuário</h2>
- Essa entidade é necessária para cadastrar o cliente (quem realiza a reserva) e seus dados, possuindo os campos id, email, nome, telefone e senha. 
+ Essa entidade é necessária para cadastrar o cliente e seus respectivos dados.
  <br><br>
  
-- `idUsuário`: É um atributo do tipo INT. É o responsável por criar um **Id único** para o usuário, que no caso é o cliente que fará a reserva (**CHAVE PRIMÁRIA**).
+- `username`: É um atributo do tipo VARCHAR com um tamanho de 45 caracteres. Ele armazena o nome que o usuário cadastrará.
 - `email`: É um atributo do tipo VARCHAR com um tamanho de 45 caracteres. É o responsável por armazenar o e-mail que o usuário cadastrou.
-- `nome`: É um atributo do tipo VARCHAR com um tamanho de 45 caracteres. É o responsável por armazenar o nome do usuário.
-- `telefone`: É um atributo do tipo VARCHAR com um tamanho de 45 caracteres. É o responsável por armazenar o número de telefone do usuário.
 - `senha`: É um atributo do tipo VARCHAR com um tamanho de 45 caracteres. É o responsável por armazenar a senha que o usuário cadastrou.
-- `created_at`: É um atributodo tipo DATE. É o responsável por armazenar a data em que o usuário realizou o cadastro.
+- `prontuário`: É um atributodo tipo VARCHAR com um tamanho de 9 caracteres. É o responsável por armazenar o prontuário que o usuário cadastrou.
+
+<h2>Entidade Eventos</h2>
+ Essa entidade é necessária para cadastrar o evento que o usuário deseja fazer a solicitação. 
+ <br><br>
+ 
+- `id_event`: É um atributo do tipo INT responsável por criar uma identidade única para cada evento criado pelos usuários.
+- `data_started`: É um atributo do tipo DATE. É o responsável por armazenar a data em que o usário deseja criar o evento.
+- `data_end`: É um atributo do tipo DATE. É o responsável por armazenar a data em que o uusário deseja finalizar o evento.
+- `descriçãodoevento`: É um atributodo tipo VARCHAR com um tamanho de 250 caracteres. É o responsável por armazenar a descrição do evento que o usuário deseja criar
+- `event_name`: É um atributo do tipo VARCHAR com um tamanho de 45 caracteres. É o responsável por armazenar o nome do evento que o usuário deseja criar para a reserva.
+
+<h2>Entidade Salas</h2>
+ Essa entidade é necessária para cadastrar as salas disponíveis para realização de eventos. 
+ <br><br>
+ 
+- `id_rooms`: É um atributo do tipo INT responsável por criar uma identidade única para cada evento criado pelos usuários.
+- `rooms_types`: É um atributo do tipo VARCHAR com um tamanho de 45 caracteres. É o responsável por armazenar o tipo das salas disponíveis para eventos.
+- `rooms_names`: É um atributo do tipo VARCHAR com um tamanho de 45 caracteres. É o responsável por armazenar o nome das salas disponíveis para eventos.
+
+<h2>Entidade Eventos Expirados</h2>
+ Essa entidade é necessária para cadastrar os eventos que já expiraram. 
+ <br><br>
+ 
+- `id_event`: É um atributo do tipo INT responsável por criar uma identidade única para cada evento criado pelos usuários.
+- `data_started`: É um atributo do tipo DATE. É o responsável por armazenar a data em que o usário deseja criar o evento.
+- `data_end`: É um atributo do tipo DATE. É o responsável por armazenar a data em que o uusário deseja finalizar o evento.
+- `descriçãodoevento`: É um atributodo tipo VARCHAR com um tamanho de 250 caracteres. É o responsável por armazenar a descrição do evento que o usuário deseja criar
+- `event_name`: É um atributo do tipo VARCHAR com um tamanho de 45 caracteres. É o responsável por armazenar o nome do evento que o usuário deseja criar para a reserva.
+
+<h1>🧍Diagramas UML</h1>
+<h2>Tela de Login e Cadastro</h2>
+<img src="https://github.com/user-attachments/assets/cb65be56-2ea6-4079-b689-b70429d4490b" width=1000>
+<h2>Tela inicial, quartos e reserva</h2>
+<img src="https://github.com/user-attachments/assets/3afa9e98-c9fa-416e-a6ac-0a7eca64ab13" width=1000>
+
+
   
