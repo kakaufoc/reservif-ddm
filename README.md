@@ -76,6 +76,10 @@ Esse projeto contará com as seguintes Entidades e atributos
 - `data_end`: É um atributo do tipo DATE. É o responsável por armazenar a data em que o uusário deseja finalizar o evento.
 - `descriçãodoevento`: É um atributodo tipo VARCHAR com um tamanho de 250 caracteres. É o responsável por armazenar a descrição do evento que o usuário deseja criar
 - `event_name`: É um atributo do tipo VARCHAR com um tamanho de 45 caracteres. É o responsável por armazenar o nome do evento que o usuário deseja criar para a reserva.
+- 
+<h1> <span style='font-size:100px;'>&#128200;</span> Plano de Capacidade</h1>
+<p> O nosso sistema deverá ser capaz de armazenar uma quantidade significativa de dados dos usuários, por ser um projeto desenvolvido para uma grande instituição como o IFSP-JCR, esperamos que as ferramentas usadas e o modo como elas serão usadas sejam capazes de atender aos requisitos solicitados, buscando o funcionamento ideal de um sistema, sem erros e com um bom desempenho.</p>
+
 
 <h1><span style='font-size:100px;'>&#128279;</span> Diagramas UML</h1>
 <h2>Login e Cadastro</h2>
@@ -85,6 +89,11 @@ Esse projeto contará com as seguintes Entidades e atributos
 
 <h1> <span style='font-size:100px;'>&#129490;</span> Usuário </h1>
 <img src = "https://github.com/user-attachments/assets/0c68132d-338d-42b9-b78f-23f28ac1e8be" width=1000>
+
+<h1><span style='font-size:100px;'>&#128281;</span> Backup e Recuperação </h1>
+<p> Uma estratégia que combina o armazenamento local e na nuvem para proteger os dados. Ele é uma solução flexível  que pode ser usada por sitemas de todos os portes. O backup híbrido combina a vantagem do acesso rápido aos dados locais com a conveniência de acessá-los remotamente. Isso permite uma recuperação mais rápida em caso de falha no sistema local, ao mesmo tempo em que oferece a flexibilidade de acesso.
+
+</p>
 
 
 <h1><span style='font-size:100px;'>&#129521;</span> Arquitetura da Aplicação</h1> 
