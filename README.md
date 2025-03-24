@@ -2,6 +2,9 @@
 <p align="center">Um trabalho para a disciplina de DESENVOLVIMENTO DE DISPOSITIVOS MÓVEIS - 4º Informática do IFSP-Jacareí</p>
 <br>
 <p align="center">
+
+<img loading="cozy" src="http://img.shields.io/static/v1?label=STATUS&message=%20CARREGANDO&-8a2BE2color=BLUE&style=for-the-badge"/>
+
 <h1>👨‍🏫 Professor responsável </h1> 
 
 Carlos Eduardo Duque Polito 
@@ -80,8 +83,8 @@ Esse projeto contará com as seguintes Entidades e atributos
 <h2>Perfil e Reserva</h2>
 <img src = "https://github.com/user-attachments/assets/882fa954-9be7-4564-8d1c-e268533d0c92" width=1000>
 
-<h1> <span style='font-size:100px;'>&#129490;</span> USUÁRIO </h1>
-<img src = "https://github.com/user-attachments/assets/882fa954-9be7-4564-8d1c-e268533d0c92" width=1000>
+<h1> <span style='font-size:100px;'>&#129490;</span> Usuário </h1>
+<img src = "https://github.com/user-attachments/assets/0c68132d-338d-42b9-b78f-23f28ac1e8be" width=1000>
 
 
 <h1><span style='font-size:100px;'>&#129521;</span> Arquitetura da Aplicação</h1> 
