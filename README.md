@@ -76,7 +76,7 @@ Esse projeto contará com as seguintes Entidades e atributos
 
 <h1>🧍Diagramas UML</h1>
 <h2>Tela de Login e Cadastro</h2>
-<img src="https://github.com/user-attachments/assets/cb65be56-2ea6-4079-b689-b70429d4490b" width=1000>
+<img src="https://github.com/user-attachments/assets/1f511434-30e4-4716-afc7-76a98e715fa6" width=1000>
 <h2>Tela inicial, quartos e reserva</h2>
 <img src="https://github.com/user-attachments/assets/3afa9e98-c9fa-416e-a6ac-0a7eca64ab13" width=1000>
 
