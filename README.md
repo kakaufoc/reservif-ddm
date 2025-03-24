@@ -74,11 +74,16 @@ Esse projeto contará com as seguintes Entidades e atributos
 - `descriçãodoevento`: É um atributodo tipo VARCHAR com um tamanho de 250 caracteres. É o responsável por armazenar a descrição do evento que o usuário deseja criar
 - `event_name`: É um atributo do tipo VARCHAR com um tamanho de 45 caracteres. É o responsável por armazenar o nome do evento que o usuário deseja criar para a reserva.
 
-<h1>🧍Diagramas UML</h1>
-<h2>Tela de Login e Cadastro</h2>
+<h1><span style='font-size:100px;'>&#128279;</span> Diagramas UML</h1>
+<h2>Login e Cadastro</h2>
 <img src="https://github.com/user-attachments/assets/1f511434-30e4-4716-afc7-76a98e715fa6" width=1000>
-<h2>Tela inicial, quartos e reserva</h2>
-<img src="https://github.com/user-attachments/assets/3afa9e98-c9fa-416e-a6ac-0a7eca64ab13" width=1000>
+<h2>Perfil e Reserva</h2>
+<img src = "https://github.com/user-attachments/assets/882fa954-9be7-4564-8d1c-e268533d0c92" width=1000>
+
+
+<h1><span style='font-size:100px;'>&#129521;</span> Arquitetura da Aplicação</h1> 
+<h2>Arquitetura do Software</h2>
+<img src="https://github.com/user-attachments/assets/49e11b13-c231-4ae7-ae38-222c95d66f3e" width=1000> 
 
 
   
