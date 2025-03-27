@@ -9,7 +9,7 @@
 
 Carlos Eduardo Duque Polito 
 
-<h1>🎯 Objetivo do aplicação</h1> 
+<h1>🎯 Objetivo da aplicação</h1> 
 O objetivo dessa aplicação é desenvolver um aplicativo que facilite a solicitação de reservas de espaços para atividades pedagógicas no IFSP - CAMPUS JACAREÍ. 
 <br>
 
@@ -23,7 +23,7 @@ Nosso público alvo é toda a comunidade escolar do IFSP - JCR, todos que deseja
 - `Reserva de espaços para atividades pedagógicas`: É disponibilizado um formulário onde o usuário poderá inscrever informações sobre o evento que deseja realizar. Caso o horário e local escolhido esteja disponível, o usuário conseguirá solicitar sua reserva para a CAE, que poderá ou não aprovar a solicitação.
 - `Edição de eventos e informações sobre o perfil`: Nessas abas o usuário poderá alterar informações sobre seu perfil e poderá também excluir ou editar seus eventos criados.
   
-<h1><span style='font-size:100px;'>&#128203;</span> Requisitos não funcionais para o site</h1> 
+<h1><span style='font-size:100px;'>&#128203;</span> Requisitos não funcionais para o projeto</h1> 
 Para o total funcionamento, a aplicação deve conter:
 
 - `Responsividade`: Capacidade de responder a algo de forma rápida e adequada, adaptando-se às circunstâncias. 
@@ -77,20 +77,26 @@ Esse projeto contará com as seguintes Entidades e atributos
 - `descriçãodoevento`: É um atributodo tipo VARCHAR com um tamanho de 250 caracteres. É o responsável por armazenar a descrição do evento que o usuário deseja criar
 - `event_name`: É um atributo do tipo VARCHAR com um tamanho de 45 caracteres. É o responsável por armazenar o nome do evento que o usuário deseja criar para a reserva.
 - 
-<h1> Diagrama de Objetos </h1> 
+<h1> <span style='font-size:100px;'>&#128709;</span> Diagrama de Objetos </h1> 
 
-Esse diagrama detalhará resumidamente o relacionamento dos objetos presentes no sistema
+Esse diagrama detalhará resumidamente o relacionamento dos objetos presentes no sistema.
 <img src = "https://github.com/user-attachments/assets/fee271ad-7d53-49be-8937-d47ab9c7827d" width=1000>
 
-  
+<h1> <span style='font-size:100px;'>&#128391;</span> Diagrama de Componentes </h1> 
+
+Esse diagrama detalhará resumidamete o relacionamento dos componentes presentes no sistema.
+<img src = "https://github.com/user-attachments/assets/afffa9ee-719b-4424-8185-128b749a09aa"  width = 1000>
+
 <h1> <span style='font-size:100px;'>&#128200;</span> Plano de Capacidade</h1>
 <p> O nosso sistema deverá ser capaz de armazenar uma quantidade significativa de dados dos usuários, por ser um projeto desenvolvido para uma grande instituição como o IFSP-JCR, esperamos que as ferramentas usadas e o modo como elas serão usadas sejam capazes de atender aos requisitos solicitados, buscando o funcionamento ideal de um sistema, sem erros e com um bom desempenho.</p>
 
 
 <h1><span style='font-size:100px;'>&#128279;</span> Diagramas UML</h1>
 <h2>Login e Cadastro</h2>
+<p>Esse diagrama visa mostrar o fluxo de atividades para a execução de tarefas nos ramos login e cadastro.</p>
 <img src="https://github.com/user-attachments/assets/1f511434-30e4-4716-afc7-76a98e715fa6" width=1000>
 <h2>Perfil e Reserva</h2>
+<p>Esse diagrama visa mostrar o fluxo de atividades para a execução de tarefas nos ramos perfil e reserva.</p>
 <img src = "https://github.com/user-attachments/assets/882fa954-9be7-4564-8d1c-e268533d0c92" width=1000>
 
 <h1> <span style='font-size:100px;'>&#129490;</span> Usuário </h1>
