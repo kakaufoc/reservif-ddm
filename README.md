@@ -77,6 +77,12 @@ Esse projeto contará com as seguintes Entidades e atributos
 - `descriçãodoevento`: É um atributodo tipo VARCHAR com um tamanho de 250 caracteres. É o responsável por armazenar a descrição do evento que o usuário deseja criar
 - `event_name`: É um atributo do tipo VARCHAR com um tamanho de 45 caracteres. É o responsável por armazenar o nome do evento que o usuário deseja criar para a reserva.
 - 
+<h1> Diagrama de Objetos </h1> 
+
+Esse diagrama detalhará resumidamente o relacionamento dos objetos presentes no sistema
+<img src = "https://github.com/user-attachments/assets/882fa954-9be7-4564-8d1c-e268533d0c92" width=1000> width=1000>
+
+  
 <h1> <span style='font-size:100px;'>&#128200;</span> Plano de Capacidade</h1>
 <p> O nosso sistema deverá ser capaz de armazenar uma quantidade significativa de dados dos usuários, por ser um projeto desenvolvido para uma grande instituição como o IFSP-JCR, esperamos que as ferramentas usadas e o modo como elas serão usadas sejam capazes de atender aos requisitos solicitados, buscando o funcionamento ideal de um sistema, sem erros e com um bom desempenho.</p>
 
