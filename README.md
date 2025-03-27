@@ -80,7 +80,7 @@ Esse projeto contará com as seguintes Entidades e atributos
 <h1> Diagrama de Objetos </h1> 
 
 Esse diagrama detalhará resumidamente o relacionamento dos objetos presentes no sistema
-<img src = "https://github.com/user-attachments/assets/882fa954-9be7-4564-8d1c-e268533d0c92" width=1000> width=1000>
+<img src = "https://github.com/user-attachments/assets/fee271ad-7d53-49be-8937-d47ab9c7827d" width=1000>
 
   
 <h1> <span style='font-size:100px;'>&#128200;</span> Plano de Capacidade</h1>
