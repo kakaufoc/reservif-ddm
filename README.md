@@ -100,7 +100,7 @@ Esse diagrama detalhará resumidamete o relacionamento dos componentes presentes
 <img src = "https://github.com/user-attachments/assets/882fa954-9be7-4564-8d1c-e268533d0c92" width=1000>
 
 <h1> <span style='font-size:100px;'>&#129490;</span> Usuário </h1>
-<img src = "https://github.com/user-attachments/assets/0c68132d-338d-42b9-b78f-23f28ac1e8be" width=1000>
+<img src = "https://github.com/user-attachments/assets/0c68132d-338d-42b9-b78f-23f28ac1e8be" width=1300>
 
 <h1><span style='font-size:100px;'>&#128281;</span> Backup e Recuperação </h1>
 <p> Uma estratégia que combina o armazenamento local e na nuvem para proteger os dados. Ele é uma solução flexível  que pode ser usada por sitemas de todos os portes. O backup híbrido combina a vantagem do acesso rápido aos dados locais com a conveniência de acessá-los remotamente. Isso permite uma recuperação mais rápida em caso de falha no sistema local, ao mesmo tempo em que oferece a flexibilidade de acesso.
